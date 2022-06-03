@@ -4,9 +4,10 @@ Elice AI Track 3기 데이터 분석 프로젝트의 결과물입니다.
 
 배달과 코로나의 관계성에 대해서 생각해보고, 해당 데이터들을 시각화하여 사용자에게 보여주고자 했습니다.
 
-### 데모
+## 데모
 
-![team11_demo.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e5d603c-c48b-43b2-9a77-3d079624c66e/team11_demo.gif)
+![team11_demo (1)](https://user-images.githubusercontent.com/48541850/171826846-d5b1e69c-4eea-4835-ab71-c2c87bc011ed.gif)
+
 
 **구현 기능**
 
